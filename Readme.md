@@ -11,7 +11,7 @@ Any improvements are more than welcomed.
 This case is not your ordinary case, its a combination of sandwich case and who knows a normal case :D
 it's meant to be snugged between the top and bottom plate.
 
-![bottom](./Images/DSC_1024.JPG)
+![bottom](https://github.com/elasticrash/plaid_keyboard_case/blob/master/Images/DSC_1024.jpg?raw=true)
 
 As a bonus I drilled two holes on the plate for a pair of feet, becomes I didn't like the angle much
 
